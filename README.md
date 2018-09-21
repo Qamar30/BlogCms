@@ -1,9 +1,9 @@
 # PHP BlogCms
-![screenshot_2018-09-17 admin page](https://user-images.githubusercontent.com/27438491/45899071-266e0780-bddc-11e8-8966-0becb13fe389.png)
-a content management system for blogging built with php and mysql
+[screenshot_2018-09-17 admin page](https://user-images.githubusercontent.com/27438491/45899071-266e0780-bddc-11e8-8966-0becb13fe389.png)
 
-FEATURES
+a content management system for blogging built with PHP and MYSQL
 
+# FEATURES
 
 1.LOGIN SYSTEM FOR ADMINISTRATOR
 
